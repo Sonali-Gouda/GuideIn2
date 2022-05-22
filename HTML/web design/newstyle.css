@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav-brand {
+    font-size: 14px;
+    color: red;
+}
+
+.navlink {
+    color: rgb(10, 10, 94);
+}
+
+.nav-link:hover {
+    color: red;
+    transition: 0.3s;
+}
+
+.nav-item {
+    color: rgb(7, 7, 78);
+    font-weight: 500;
+    padding-left: 35px;
+}

@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    width: 100%;
+    background-image: image("hd.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+
+.bar {
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+}
+
+.icon {
+    width: 200px;
+    float: left;
+    height: 70px;
+}
+
+.logo {
+    color: red;
+    font-size: x-large;
+    font-family: cursive;
+    position: absolute;
+}
